@@ -1,6 +1,12 @@
+Winners: 
 
+> https://github.com/BDPLpy
 
- ! PL LANGUAGE ! -->  EN CAN BE FOUND BELOW !
+> https://github.com/PiotrekPKP
+
+> https://github.com/AdiPol1359
+
+! PL LANGUAGE ! -->  EN CAN BE FOUND BELOW !
 
 ## DiscordChallenge-2
 #### Napisz program, który będzie działał, w przedstawiony niżej sposób.
@@ -8,19 +14,19 @@
 > Program prosi o podanie swoich danych. Konwertuje wpisane dane aby były wyświetlane w postaci pierwszej litery imienia + pełnego nazwiska w jednym wyrazie. Pierwsza litera imienia i nazwiska zamieniana jest zawsze na wielka literę. Jeśli litera zawiera polski znak "ą,ę" etc. zamienia go na "a,e" etc. ***Na przykład -> Michał Zając = MZajac***
 
 > Program prosi o odpowiedź na pytanie: Jaki jest pierwiastek z {losowa liczba od 1 do 10 włącznie}
-> Odpowiedź z uwzględnieniem **2 miejsc po przecinku**,  w przypadku ułamka. W przypadku np. pierwiastka z 4, odpowiedź '2' jest równie poprawna co '2,00'. 
+> Odpowiedź z uwzględnieniem **2 miejsc po przecinku**,  w przypadku ułamka. W przypadku np. pierwiastka z 4, odpowiedź '2' jest równie poprawna co '2,00'.
 
-> Jeżeli odpowiedz jest poprawna wyświetla listę możliwych do wykonania akcji - **dodawanie, odejmowanie, mnożenie, dzielenie.** 
+> Jeżeli odpowiedz jest poprawna wyświetla listę możliwych do wykonania akcji - **dodawanie, odejmowanie, mnożenie, dzielenie.**
 
 > Po wybraniu przez użytkownika jednej z opcji , **działa jak kalkulator.** Po wykonaniu kazdego działania, program pyta czy użytkownik chce zamknac program, lub wrócić do wyświetlenia mozliwych opcji kalkulatora.
 
- **Przykładowe działanie programu**
-- Podaj swoje dane 
+**Przykładowe działanie programu**
+- Podaj swoje dane
 - Krzysztof Brzęczykiewicz
-- Witaj KBrzeczykiewicz, aby przejść dalej powiedz jaki jest pierwiastek z { losowa liczba od 1 do 10 włącznie }. 
+- Witaj KBrzeczykiewicz, aby przejść dalej powiedz jaki jest pierwiastek z { losowa liczba od 1 do 10 włącznie }.
 
 > Jeśli odpowiedź jest niepoprawna, program prosi o spróbowanie ponownie.
-> Jeśli odpowiedź jest poprawna --> 
+> Jeśli odpowiedź jest poprawna -->
 
 - Co chcesz zrobić? Wpisz cyfrę opcji, aby wykonać działanie.
 1. Dodawanie
@@ -33,9 +39,9 @@
 - 1
 - Podaj liczby które chcesz dodać
 - 2,10
-- Wynik działania to  12, wpisz ( na przykład ) 'z' aby wrócić do wyboru działania, lub 'n' aby obliczyć kolejne działanie. 
+- Wynik działania to  12, wpisz ( na przykład ) 'z' aby wrócić do wyboru działania, lub 'n' aby obliczyć kolejne działanie.
 
-### Istnieje również możliwość zaprogramowania kalkulatora,tylko wyświetlającego dostępne działania, bez wybierania opcji przez użytkownika, przykład: 
+### Istnieje również możliwość zaprogramowania kalkulatora,tylko wyświetlającego dostępne działania, bez wybierania opcji przez użytkownika, przykład:
 
 > ...Użytkownik poprawnie wprowadził dane i obliczył pierwiastek, następnie =>
 
@@ -45,8 +51,8 @@
 3. Mnożenie,     znak = "*"
 4. Dzielenie,    znak = "/"
 
-- 5 + 5 
-- Wynik działania to 10, wpisz ( na przykład ) 'z' aby wrócić do wyboru działania, lub 'n' aby obliczyć kolejne działanie. 
+- 5 + 5
+- Wynik działania to 10, wpisz ( na przykład ) 'z' aby wrócić do wyboru działania, lub 'n' aby obliczyć kolejne działanie.
 
 ### Challenge można wykonać w dowolnej formie, nawet w formie inputów na stronie. Najważniejsze, aby  wszystko działalo, tak jak zostało przedstawione powyżej.
 
@@ -64,7 +70,7 @@
 
 > When the user selects one of the options, ** works like a calculator. ** After each action, the program asks if the user wants to close the program or go back to the possible calculator options.
 
- ** Sample program operation **
+** Sample program operation **
 - Enter your details
 - Krzysztof Brzęczykiewicz
 - Hello KBrzeczykiewicz, to go on, say what is the square root of {random number from 1 to 10 inclusive}.

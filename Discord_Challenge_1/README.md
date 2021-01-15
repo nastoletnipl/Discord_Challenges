@@ -1,5 +1,9 @@
 
-! PL LANGUAGE !
+> Ruby solution - https://github.com/Kacperek1337
+> 
+> Program.cs - Dawiss#2115 ( Discord )
+> 
+> solution.cs -  https://github.com/PiotrekPKP
 
 # Nastoletni Programiści - Discord Challenge #1
 
@@ -7,9 +11,7 @@
 
 > Napisz skrypt, w dowolnym języku, który po wpisaniu polskiego imienia, sprawdzi czy wpisane imie jest żeńskie czy męskie
 > Funkcja musi uwzględnić także wyjątek, którym jest imię ' Kuba '
-> Jeśli wpisany wyraz będzie miał więcej niż 13, lub mniej niż 3 litery, funkcja ma zwrócić wiadomość, że nie jest to poprawne imię.
-
-! EN LANGUAGE !
+> Jeśli wpisany wyraz będzie miał więcej niż 14, lub mniej niż 3 litery, funkcja ma zwrócić wiadomość, że nie jest to poprawne imię.
 
 # Teen Programmers - Discord Challenge #1
 

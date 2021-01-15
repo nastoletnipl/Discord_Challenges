@@ -1,27 +1,35 @@
- ! PL LANG ! EN CAN BE FOUND BELOW !
- 
-Pan Kowalski ma problem  ze spamiętaniem, które tabletki, kiedy brać, ile brać... 
+Winners : 
+
+> https://github.com/testertaczek
+
+> https://github.com/h0ddin/kowalski
+
+> https://github.com/BDPLpy
+
+! PL LANG ! EN CAN BE FOUND BELOW !
+
+Pan Kowalski ma problem  ze spamiętaniem, które tabletki, kiedy brać, ile brać...
 Zapisuje sobie kartki, instrukcje ale nadal to nic nie daje. Ma bardzo słabą pamięć, nie do końca pamięta, jaki dzisiaj dzień.
-Marzy o programie, który po jednym kliknięciu  wyświetli mu jaki dzisiaj jest dzień i jakie tabletki musi wziąć. 
+Marzy o programie, który po jednym kliknięciu  wyświetli mu jaki dzisiaj jest dzień i jakie tabletki musi wziąć.
 
-Recepta pana Kowalskiego: 
-Hydrocodone, Simvastatin, Lisinopril, Besylate, Metformin, Omeprazole, Azithromycin. 
+Recepta pana Kowalskiego:
+Hydrocodone, Simvastatin, Lisinopril, Besylate, Metformin, Omeprazole, Azithromycin.
 
-W zależności od tego, który jest dzień tygodnia, pan Kowalski, musi wziąc odpowiedni lek. 
--- Każdej literze w dniu tygodnia odpowiada numer w alfabecie. Po zsumowaniu tych wszystkich liczb i obliczeniu średniej arytmetycznej,  Pan Kowalski, musi wziąć Lek, którego pierwsza litera, przekonwertowana na numer w alfabecie, jest najbardziej zbliżona do obliczonej wcześniej średniej arytmetycznej. 
+W zależności od tego, który jest dzień tygodnia, pan Kowalski, musi wziąc odpowiedni lek.
+-- Każdej literze w dniu tygodnia odpowiada numer w alfabecie. Po zsumowaniu tych wszystkich liczb i obliczeniu średniej arytmetycznej,  Pan Kowalski, musi wziąć Lek, którego pierwsza litera, przekonwertowana na numer w alfabecie, jest najbardziej zbliżona do obliczonej wcześniej średniej arytmetycznej.
 
-Problemem jest także, w jakiej ilości musi wziąć te leki. 
--- Jeśli dzień miesiąca jest liczbą, która po przekształceniu na pierwiastek drugiego stopnia, umożliwia wyciągnięcie z niego  liczby całkowitej, musi wziąć ilość tabletek, równą obliczonej liczbie całkowitej. 
--- Zakładając, że dzień miesiąca = x, a (15 < x < 30 || √x / != liczba całkowita) , Jeśli x spełnia podany wcześniej warunek, pan Kowalski musi wziąć dwie tabletki. 
--- Pan Kowalski ma jednak przerwy w braniu leków, w każdy dzień miesiąca podzielny przez 10. W takim przypadku zalecane mu jest pójście na spacer. 
+Problemem jest także, w jakiej ilości musi wziąć te leki.
+-- Jeśli dzień miesiąca jest liczbą, która po przekształceniu na pierwiastek drugiego stopnia, umożliwia wyciągnięcie z niego  liczby całkowitej, musi wziąć ilość tabletek, równą obliczonej liczbie całkowitej.
+-- Zakładając, że dzień miesiąca = x, a (15 < x < 30 || √x / != liczba całkowita) , Jeśli x spełnia podany wcześniej warunek, pan Kowalski musi wziąć dwie tabletki.
+-- Pan Kowalski ma jednak przerwy w braniu leków, w każdy dzień miesiąca podzielny przez 10. W takim przypadku zalecane mu jest pójście na spacer.
 
--- Przymusem jest także możliwość wybrania daty, żeby żona pana Kowalskiego, miała możliwość sprawdzenia poprawności programu. 
--- Dodatkowo, program musi wykazać, który warunek został spełniony podczas obliczania ilości tabletek, oraz porównać numery w alfabecie średniej arytmetycznej dnia tygodnia, oraz pierwszej litery dnia tygodnia. 
- 
- 
- 
- !EN LANG!
- 
+-- Przymusem jest także możliwość wybrania daty, żeby żona pana Kowalskiego, miała możliwość sprawdzenia poprawności programu.
+-- Dodatkowo, program musi wykazać, który warunek został spełniony podczas obliczania ilości tabletek, oraz porównać numery w alfabecie średniej arytmetycznej dnia tygodnia, oraz pierwszej litery dnia tygodnia.
+
+
+
+!EN LANG!
+
 Mr. Kowalski has a problem with remembering which tablets, when to take, how many ...
 He writes down sheets of paper, instructions, but it still doesn't help. He has a very poor memory, does not quite remember what day it is today.
 He dreams of a program that, with one click, will show him what day is today and what pills he has to take.
